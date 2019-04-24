@@ -1,0 +1,71 @@
+body{
+	overflow-x: hidden;
+	background-color: white;
+	font-family: sans-serif;
+	height: 650px;
+}
+.hope{
+	font-weight: bold;
+}
+.hope:hover{
+	background-color: #d32f2f ;
+	border-bottom: 2px solid white;
+}
+@keyframes mon{
+	0%{margin-left: 4%;}
+	50%{margin-left: 5%;color: #f70455;}
+	100%{margin-left: 4%;}
+}
+.hov1{
+  
+}
+.hov1:hover{
+	transform: scale(1.3) rotate(360deg);
+	transition: .3s linear;
+}
+.but1{
+	background-color: pink;position: relative;top: -310px;
+	left: 70%;
+	transform: scale(1.4);
+   
+	}
+.but1:hover{
+	transform: scale(1.5);
+    
+}
+.loco{
+	height: 200px;
+	position: relative;
+	top: 45px;
+	left: 80px;
+}
+.lol1{}
+.lol1:hover{
+		background-color: white;
+		border: 12px solid #f70455;
+		transition: .1 linear;
+}
+
+.loco1{
+	height: 200px;
+	position: relative;
+	top: 45px;
+	left: 0px;
+}
+.loco2{
+	height: 200px;
+	position: relative;
+	top: 45px;
+	left: 80px;
+}
+.loco3{
+	height:70px;
+	position: relative;
+	top: 105px;
+	left: 70px;
+}
+
+
+
+
+
